@@ -16,7 +16,7 @@ const _dirname = path.resolve();
 config();
 
 const corsOptions = {
-    origin:process.env.FRONTEND_URL,
+    origin:"https://worklyft.onrender.com",
     credentials:true
 }
 app.use(cors(corsOptions));
