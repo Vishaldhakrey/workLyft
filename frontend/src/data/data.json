@@ -1,0 +1,61 @@
+{
+    "cities": {
+        "type": "Location",
+        "array": [
+            "Bengaluru",
+            "Hyderabad",
+            "Mumbai",
+            "Delhi",
+            "Gurugram",
+            "Noida"
+        ]
+    },
+    "jobCategories": {
+        "type": "Industry",
+        "array": [
+            "Frontend Developer",
+            "Backend Developer",
+            "FullStack Developer",
+            "Devops Engineer",
+            "UI/UX Developer"
+        ]
+    },
+    "salary": {
+        "type": "Salary",
+        "array": [
+            "0-50K",
+            "51K-80K",
+            "80K-1L",
+            "above 1Lakh"
+        ]
+    },
+    "companies": {
+        "type": "companies",
+        "array": [
+            {
+                "name": "Google",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/800px-Google_%22G%22_logo.svg.png"
+            },
+            {
+                "name": "Amazon",
+                "logo": "https://yt3.googleusercontent.com/05lhMeAH6tZrPIUsp2yHNz3DwzhKbDUQcxcY0_qeXVyZttR_pktBzw0FcLUSR6D4fVqsEgL3ZO0=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+                "name": "Zepto",
+                "logo": "https://www.logoshape.com/wp-content/uploads/2024/09/zepto-logo-vector_logoshape.png"
+            },
+            {
+                "name": "Paytm",
+                "logo": "https://img.etimg.com/thumb/width-1200,height-1200,imgsize-6574,resizemode-75,msid-107312073/wealth/save/can-you-use-paytm-wallet-after-february-29-heres-what-all-paytm-users-need-to-know.jpg"
+            },
+            {
+                "name": "Microsoft",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png"
+            },
+            {
+                "name": "Facebook",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"
+            }
+        ]
+    }
+}
