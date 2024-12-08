@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import Job from "./Job";
-import FilterCard from "./filterCard";
+import FilterCard from "./FilterCard";
 import { useSelector } from "react-redux";
 import { motion } from "framer-motion";
 
